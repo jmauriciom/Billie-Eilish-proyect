@@ -10,7 +10,6 @@ This is a web application dedicated to Billie Eilish, showcasing her music, vide
 
 - Interactive user interface showcasing Billie Eilish's music and videos.
 - Smooth animations and transitions powered by GSAP (GreenSock Animation Platform).
-- Responsive design for seamless browsing on different devices.
 - User-friendly navigation and intuitive layout.
 - Incorporates icons for enhanced visual appeal and user experience.
 
